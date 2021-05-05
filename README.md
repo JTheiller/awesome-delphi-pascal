@@ -10,7 +10,7 @@
 	- [Non-visual Classes/Utils](#non-visual-classesutils)
 		- [Template](#template)
 	- [Utilities](#utilities)
-		- [RAD Studio IDE plugins/wizards](#rad-studio-ide-pluginswizards)
+		- [RAD Studio IDE plugins/wizards/tools](#rad-studio-ide-pluginswizardstools)
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -54,7 +54,11 @@
 
 ## RAD Studio IDE plugins/wizards/tools
 
+* [Boss](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
+
 * [CnWizards](https://github.com/cnpack). Free Plug-in Tool Set for Delphi/C++ Builder/CodeGear RAD Studio to Improve Development Efficiency.
 
 * [FastMM](https://github.com/pleriche/FastMM4). Lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
 // *Used as stock memory manager since 2006 but in simplified version. Provides powerful memory leak/corruption detection instruments.*
+
+* [Inno Setup](http://www.jrsoftware.org/isinfo.php). Free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
