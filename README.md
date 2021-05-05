@@ -33,9 +33,11 @@
 * [Indy](https://github.com/IndySockets/Indy). `[Delphi]` `[FPC]` Network components for Delphi, C++Builder, Delphi.NET, and FreePascal
 // *All-in-one network library based on blocking sockets and threads. Included in default RAD studio installation since 2006.*
 
+* [CrossUrl](https://github.com/ms301/CrossUrl). `[Delphi]` This library I use in my projects, in which there is work with the network. You can choose your library (at the moment it's System.Net and Indy, but you can make the implementation of any other library) to access the network.
+
 * [Projeto-TInject](https://github.com/mikelustosa/Projeto-TInject). `[Delphi]` Component for integration with whatsapp `[unofficial]`.
 
-* [TInjectTelegram_Delphi](https://github.com/dieletro/tinjecttelegram_delphi) `[Delphi]` Component for integration with telegram API.
+* [TInjectTelegram_Delphi](https://github.com/dieletro/tinjecttelegram_delphi). `[Delphi]` Component for integration with telegram API.
 
 ## Database ##
 
