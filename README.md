@@ -7,6 +7,7 @@
 	- [Communications](#communications)
 		- [Network](#network)
 	- [Database](#database)
+	- [Reports](#reports)
 	- [Non-visual Classes/Utils](#non-visual-classesutils)
 		- [Template](#template)
 	- [Utilities](#utilities)
@@ -32,12 +33,20 @@
 * [Indy](https://github.com/IndySockets/Indy). `[Delphi]` `[FPC]` Network components for Delphi, C++Builder, Delphi.NET, and FreePascal
 // *All-in-one network library based on blocking sockets and threads. Included in default RAD studio installation since 2006.*
 
+* [Projeto-TInject](https://github.com/mikelustosa/Projeto-TInject). `[Delphi]` Component for integration with whatsapp `[unofficial]`.
+
+* [TInjectTelegram_Delphi](https://github.com/dieletro/tinjecttelegram_delphi) `[Delphi]` Component for integration with telegram API.
 
 ## Database ##
 
 * [ZeosLib](http://sourceforge.net/projects/zeoslib). `[Delphi]` `[FPC]` Set of database components for MySQL, PostgreSQL, Interbase, Firebird, MS SQL, Sybase, Oracle and SQLite.
 
 * [tDBF](http://sourceforge.net/p/tdbf/code/HEAD/tree). `[Delphi]` `[FPC]` Native dBASE III+, dBase IV and dBase 2k data access component for Delphi, BCB, Kylix, FreePascal. It allows you to create very compact database programs which don't need any special installer programs. The DB engine code is compiled right into your executable.
+
+## Reports ##
+
+* [FortesReport](https://github.com/fortesinformatica/fortesreport-ce). `[Delphi]` The FortesReport is a powerful report generator available as a package of components for Delphi.
+
 
 ## Non-visual Classes/Utils ##
 
