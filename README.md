@@ -35,6 +35,9 @@
 
 * [CrossUrl](https://github.com/ms301/CrossUrl). `[Delphi]` This library I use in my projects, in which there is work with the network. You can choose your library (at the moment it's System.Net and Indy, but you can make the implementation of any other library) to access the network.
 
+* [Delphi Chromium Embedded](https://github.com/salvadordf/CEF4Delphi). - CEF4Delphi is an open source project created by Salvador Díaz Fau to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.
+// *Several DLLs required*
+
 * [Projeto-TInject](https://github.com/mikelustosa/Projeto-TInject). `[Delphi]` Component for integration with whatsapp `[unofficial]`.
 
 * [TInjectTelegram_Delphi](https://github.com/dieletro/tinjecttelegram_delphi). `[Delphi]` Component for integration with telegram API.
