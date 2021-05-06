@@ -48,6 +48,10 @@
 
 * [tDBF](http://sourceforge.net/p/tdbf/code/HEAD/tree). `[Delphi]` `[FPC]` Native dBASE III+, dBase IV and dBase 2k data access component for Delphi, BCB, Kylix, FreePascal. It allows you to create very compact database programs which don't need any special installer programs. The DB engine code is compiled right into your executable.
 
+* [TinyJSON](https://sourceforge.net/projects/tiny-json). This is a small (about 1600 lines of code) unit for Delphi, which realizes parsing and generating JSON format. Can be used in combination with FastMM and FastCode for even faster speed.
+
+* [JSON delphi library](http://sourceforge.net/projects/lkjson). This is a delphi library implementing JSON. Lightweight and fast.
+
 ## Reports ##
 
 * [FortesReport](https://github.com/fortesinformatica/fortesreport-ce). `[Delphi]` The FortesReport is a powerful report generator available as a package of components for Delphi.
