@@ -42,6 +42,14 @@
 
 * [TInjectTelegram_Delphi](https://github.com/dieletro/tinjecttelegram_delphi). `[Delphi]` Component for integration with telegram API.
 
+* [Horse](https://github.com/HashLoad/horse). `[Delphi]` `[FPC]` Fast and minimalist web framework. Horse allows to create powerful RESTful servers without effort. Focused on microservices.
+
+* [Horse-jhonson](https://github.com/HashLoad/jhonson). `[Delphi]` `[FPC]` Middleware for parse JSON in HORSE
+
+* [Horse-octet-stream](https://github.com/HashLoad/horse-octet-stream). `[Delphi]` `[FPC]` Middleware for work with application/octet-stream in HORSE
+
+* [Horse-handle-exception](https://github.com/HashLoad/handle-exception). `[Delphi]` `[FPC]` Middleware for handle exception in HORSE
+
 ## Database ##
 
 * [ZeosLib](http://sourceforge.net/projects/zeoslib). `[Delphi]` `[FPC]` Set of database components for MySQL, PostgreSQL, Interbase, Firebird, MS SQL, Sybase, Oracle and SQLite.
